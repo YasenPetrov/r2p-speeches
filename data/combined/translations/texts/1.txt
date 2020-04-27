@@ -21,7 +21,10 @@ under international law. This latest escalation of the conflict again puts civil
 The Office of the High Commissioner for Human Rights has reported on several civilian
 casualties, including allegations of summary executions, and humanitarian actors report that at
 least 160,000 civilians have been displaced in the six days since the start of the military
-operation.”
+operation
+
+====================
+
 The Special Advisers stressed that Turkish authorities and all parties to the conflict in Syria need
 to ensure strict adherence to the legal obligation to protect civilians. This is the responsibility of
 all State and non-State actors. No civilian should be forced to leave their home against their will
@@ -50,3 +53,4 @@ For media queries please contact:
 Office on Genocide Prevention and the Responsibility to Protect
 Email: osapg@un.org
 http://www.un.org/genocideprevention
+

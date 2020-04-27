@@ -1,4 +1,4 @@
-xt
+ xt
 res
 
 aes
@@ -222,7 +222,3 @@ continue to work with other States and partners and we will strive towards a
 strong and continuously evolving partnership with the UN to collectively realize
 
 the Responsibility to Protect
-
-====================
-
-I thank you.

@@ -1,4 +1,4 @@
-Check against delivery
+ Check against delivery
 
  
 
@@ -95,7 +95,3 @@ population from R2P crimes in the future. Therefore we once again support the
 inclusion of the R2P debate in the formal agenda of the United Nations General
 Assembly to further develop our common understanding on how best to implement the
 R2P in practice
-
-====================
-
-| thank you

@@ -55,7 +55,6 @@ security”
 
 ====================
 
-
 The Special Adviser explained that accountability for past crimes is a basic right of
 victims and their families to obtain justice and other forms of redress for what they
 endured. Moreover, it is also a critical tool for peace and security. Accountability rebuilds
@@ -73,7 +72,10 @@ amnesty represents an erosion of that trust and could negatively affect ongoing 
 reconciliation in the country. I urge all members of Congress to reflect very seriously
 about the impact of their decision, to make sure that Guatemala continues building upon
 its efforts to fight impunity, and that the country remains an example to the world in the
-pursuit of justice.”
+pursuit of justice
+
+====================
+
 END
 * *** *
 For media queries please contact:

@@ -1,4 +1,4 @@
-Check against delivery
+ Check against delivery
 
 Statement on behalf of The Group of Friends on the
 Responsibility to Protect at the UN General Assembly
@@ -47,11 +47,15 @@ made by all Member States
 In the ten years since, we have seen:
 
 > The establishment and expansion of the Group of Friends, which consists of 50
-members from every region of the world in New York and Geneva;
+members from every region of the world in New York and Geneva
+
+====================
 
 > The launch of a Global Network of R2P Focal Points, consisting of 55 member
 
-states and the European Union, as well as other atrocity prevention networks;
+states and the European Union, as well as other atrocity prevention networks
+
+====================
 
 > The inclusion of R2P in over 50 Security Council resolutions, including directly in
 the mandates of a number of UN Peace Operations, and in over 15 resolutions at

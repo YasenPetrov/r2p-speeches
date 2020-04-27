@@ -40,7 +40,6 @@ prevention
 
 ====================
 
-
 The
 
 recommendations
@@ -136,7 +135,6 @@ Rome Statute of the International Criminal Court
 
 ====================
 
-
 Domestic
 
 accountability measures for atrocities are among the most effective
@@ -184,7 +182,10 @@ No country or region is immune to the risk factors for atrocity crimes
 We are increasingly concerned about the rising levels of incitement
 to discrimination, hostility and violence in all its forms, as well as hate
 speech and xenophobia, in many parts of the world. As SecretaryGeneral Antonio Guterres has said, “Hatred is a threat to everyone –
-and so this is a job for everyone.”
+and so this is a job for everyone
+
+====================
+
 We also strongly support an inclusive approach to preventing
 atrocity crimes — one that recognizes the critical role women play in
 early warning, promoting peacebuilding, peacekeeping, capacity
@@ -236,11 +237,3 @@ accountability response
 The era of indifference is over, but the time of consistent and timely
 action to prevent and protect has not yet begun. As the SecretaryGeneral noted repeatedly in his report: “More needs to be done.” Let
 us speed the day
-
-====================
-
-Thank you
-
-====================
-
-

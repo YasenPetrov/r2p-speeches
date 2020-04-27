@@ -1,4 +1,4 @@
-STATEMENT
+ STATEMENT
 
 by
 A. E. Franti8ek Ruzitka
@@ -109,7 +109,3 @@ Far from being completed, our efforts to achieve the full implementation of Resp
 Protect must progress to a higher level. Slovakia believes that the time has come for
 Responsibility to Protect to become one of the main concepts in the agenda of the General
 Assembly
-
-====================
-
-Thank you, Mr Chairman.

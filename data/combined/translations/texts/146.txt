@@ -1,4 +1,4 @@
-Permanent Mission of the United Republic of Tanzania
+ Permanent Mission of the United Republic of Tanzania
 
 STATEMENT BY
 
@@ -37,7 +37,9 @@ This growing consensus influenced the African Union’s shift from the
 principle of non-interference to non-indifference as currently reflected in Article
 4(h) of the Constitutive Act. The provision grants the Union the right to intervene in
 a Member State in respect of grave circumstances, namely; “war crimes, genocide,
-and crimes against humanity.”
+and crimes against humanity
+
+====================
 
 However, even when our vision and ideals are noble and outstanding,
 translating them into concrete action remains a challenge we must overcome. As we
@@ -74,7 +76,3 @@ proceed to fill the gap between our commitments and our record of action
 Individual state actions alone will not be sufficient. We must strengthen the
 collective responsibility of a host of actors - at the local, national, regional,
 international and, yes, at the United Nations
-
-====================
-
-I thank you.

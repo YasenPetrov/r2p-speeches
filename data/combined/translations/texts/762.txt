@@ -5,7 +5,10 @@ Unofficial Translation from Published Statement
 Mr. President,
 
 I would like to thank the Secretary-General of the United Nations for his report based on
-the theme “Responsibility of States and Prevention.”
+the theme “Responsibility of States and Prevention
+
+====================
+
 I would also like to congratulate the moderator and the panelists for their contribution
 to the unraveling of the present interactive dialogue on the theme indicated above
 
@@ -81,6 +84,3 @@ these countries
 Togo is proud that these States, which had not done so before, are in the process of
 nominating National Focal Points who will allow for better coordination on the topic,
 hopefully beyond ECOWAS and on the African level
-
-====================
-

@@ -18,7 +18,10 @@ implementation of UN Security Council Resolution 2254
 Advisers stated. “They are subjected on a daily basis to indiscriminate air strikes, deliberate
 starvation, denial of medical care, enforced disappearance, arbitrary detention and torture. These acts
 must stop immediately. They represent a complete rejection of the protected status of civilians, who
-are being used as pawns by all parties to the conflict, with complete disregard for human life.”
+are being used as pawns by all parties to the conflict, with complete disregard for human life
+
+====================
+
 The Special Advisers welcomed the decision of the members of the ISSG to use their influence to
 ensure that all parties allow immediate and sustained humanitarian access to populations throughout
 Syria and immediately and significantly reduce violence, with the goal of implementing a nationwide
@@ -30,7 +33,10 @@ cessation of hostilities within one week
 suffering of the civilian populations and ensure their protection. The attacks against Syrian civilians
 over the last five years, in violation of international human rights and humanitarian law, may amount
 to war crimes and crimes against humanity. It is now time to restore their dignity and the protection
-they are entitled to under international law.”
+they are entitled to under international law
+
+====================
+
 The Special Advisers urged States not to fail the Syrian populations yet again and to uphold their
 commitment to protect populations from war crimes, genocide, ethnic cleansing and crimes against
 humanity. “The protection of the populations of Syria is the primary responsibility of the Syrian

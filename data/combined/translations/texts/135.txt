@@ -1,4 +1,4 @@
-General Assembly informal interactive dialogue on the Report of the Secretary-General
+ General Assembly informal interactive dialogue on the Report of the Secretary-General
 on the Responsibility to Protect
 
 The responsibility to protect and accountability for prevention
@@ -21,7 +21,9 @@ Mr. Guterres, and the Special Adviser on the Responsibility to Protect, Mr
 Simonovi¢ for their continuing efforts in keeping R2P high on our agenda. After
 more than a decade since the initiation of the concept, the time has come to step
 up our joint efforts and rethink our commitments for truly delivering on the
-promise of “Never again.”
+promise of “Never again
+
+====================
 
 Over the last two years, the world has continued to witness the consequences of
 the violations of human rights, international humanitarian law and the lack of
@@ -68,7 +70,3 @@ In this sense, please be assured that Croatia remains fully committed to assigni
 the greatest priority to this valuable principle through applying and making the
 most of a wide scope of our political, diplomatic and humanitarian tools, as well
 as our network of global partners
-
-====================
-
-Thank you.

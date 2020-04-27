@@ -45,7 +45,6 @@ expressing support for its effective implementation
 
 ====================
 
-
 In order for RtoP to be functional, we need to preserve and make use of all of its three
 pillars in their mutually interlinked character. We stress that pillar three tools are much
 wider and are not limited only to the use of force. Still, the fact that coercive measures of
@@ -94,7 +93,3 @@ paragraphs 138 and 139 of the 2005 World Summit Outcome Document, to the
 responsibility to protect population from crimes of genocide, war crimes, ethnic
 cleansing and crimes against humanity, including prevention of such crimes and once
 again express our full support to all efforts leading to its practical operationalization
-
-====================
-
-

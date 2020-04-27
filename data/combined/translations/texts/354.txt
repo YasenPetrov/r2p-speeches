@@ -1,4 +1,4 @@
-check against delivery
+ check against delivery
 
 STATEMENT BY
 
@@ -12,7 +12,7 @@ GENERAL ASSEMBLY
 Informal interactive dialogue on the report of the Secretary-General on the
 responsibility to protect
 
-NEW YORK, 8 SEPTEMBER 2014  Mr. President, thank you for giving me the floor
+NEW YORK, 8 SEPTEMBER 2014 Mr. President, thank you for giving me the floor
 
 ====================
 
@@ -52,7 +52,9 @@ We fully support the Spirit of Pillar II enshrined in this Report: The Responsib
 Protect is a collective responsibility of states and the international community,
 requiring more and better coordination and cooperation. We do not need to
 reinvent the wheel, but we need to do things smarter. We subscribe to the 5
-common principles outlined in the Report: national ownership; mutual commitment;
+common principles outlined in the Report: national ownership; mutual commitment
+
+====================
 
 do no harm; prioritizing prevention; flexibility
 
@@ -107,7 +109,9 @@ of the most serious international crimes. A growing number of states is supporti
 this , and we invite all interested parties to join our efforts. I would like to take this
 opportunity to thank Special Advisor Dieng for the support he has shown this
 
-initiative. Conclusion;
+initiative. Conclusion
+
+====================
 
 Twenty years have passed since the tragic events in Rwanda put genocide
 prevention firmly on the international agenda. But despite all we have learned,
@@ -140,7 +144,3 @@ On the eve of the first decade of R2P as a global norm, it is time to take this
 discussion to the next level. The UNGA has a responsibility to address these issues
 in a structural way, and the Netherlands looks forward to a constructive
 consideration of putting R2P on the Formal agenda
-
-====================
-
-Thank you.

@@ -68,4 +68,4 @@ a more structured way, scoring the item on its formal agenda
 
 ====================
 
-Thank you for your attention."
+Thank you for your attention

@@ -1,8 +1,8 @@
-Permanent Mission
+ Permanent Mission
 of Barbados to
 the United Nations
 
-   
+ 
 
 STATEMENT BY
 
@@ -92,7 +92,9 @@ paragraph 4 of his Report the Secretary-General states “Regional and sub-regio
 
 1 as the Economic Community of West African states (..), the Africa Union and the Organization
 for Security and Cooperation in Europe (..) (are) in the vanguard of international efforts to
-develop both the principles of protection and the practical tools for implementing them.”
+develop both the principles of protection and the practical tools for implementing them
+
+====================
 
 Regional organizations often have a clear advantage over the Security Council in responding to
 such situations. Their decision-making procedures are more flexible than those of the Security
@@ -146,7 +148,3 @@ hand and intervention and sovereignty issues on the other
 CARICOM sincerely believes that the concept of the responsibility to protect deserves the
 further attention of the international community and looks forward to continuing engagement,
 aimed at achieving its universal acceptance
-
-====================
-
-I thank you Mr. President.

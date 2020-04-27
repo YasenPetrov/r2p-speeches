@@ -30,7 +30,7 @@ provide protection to their own population lies with States
 
 The role of the international community is reduced, first of all, to provide
 necessary assistance to States in the implementation of this
-responsibilities. Appeal to the enforcement mechanisms for the implementation of
+duties. Appeal to the enforcement mechanisms for the implementation of
 SCR is an extreme measure, which should be carried out in
 strict accordance with the UN Charter. Thus the main purpose of such
 coercion - to induce the responsible State to fulfill
@@ -72,7 +72,7 @@ image
 
 concept
 
-in
+at
 
 world
 
@@ -102,7 +102,7 @@ etc
 
 ====================
 
-FROM
+WITH
 
 feed
 
@@ -141,6 +141,3 @@ issues. And only such a consensus, in our view, would create
 solid basis for further steps in this area. Ready
 to continue the discussion on this issue in the General
 Assembly of the United Nations
-
-====================
-

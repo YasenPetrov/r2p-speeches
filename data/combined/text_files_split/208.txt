@@ -8,7 +8,9 @@ CHECK AGAINST DELIVERY
 His Excellency, Mr. Ban Ki-moon;
 Mr. President of the General Assembly;
 Excellencies;
-Ladies and Gentlemen;
+Ladies and Gentlemen
+
+====================
 
 11 years ago, world leaders met in this very city to negotiate and agree to what
 were supposedly audacious decisions in areas of development, security,
@@ -104,11 +106,3 @@ atrocity crimes especially at times where national authorities fail in their
 primary duties to protect their own people. The charter of the United Nations
 constantly reminds us that lives irrespective of race, ethnicity or religion
 matters
-
-====================
-
-I thank you
-
-====================
-
-

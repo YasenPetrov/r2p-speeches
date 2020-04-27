@@ -1,4 +1,4 @@
-Check against delivery
+ Check against delivery
 
  
 
@@ -77,7 +77,3 @@ consistent and effective implementation of R2P. The time has also come to includ
 R2P debate in the formal agenda of the UNGA, especially with the focus on how best to
 
 operationalize R2P
-
-====================
-
-Thank you, Mr. Chairman.
